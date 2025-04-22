@@ -67,6 +67,12 @@
    
 }
 
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
 .submit-btn {
     background-color: #ef3e2d;
     color: white;
@@ -75,4 +81,5 @@
     font-size: 16px;
     border-radius: 25px;
     cursor: pointer;
+    width: 200px;
 }
